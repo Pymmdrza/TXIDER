@@ -1,6 +1,6 @@
 # TXIDER
 
-## Transaction injection and import btc address to unConfirm transaction + RSZ Method for rawtx for Reuse Wallet's
+## Transaction injection and import btc address to unConfirm transaction + RSZ Method for rawtx for Reuse Wallet's [Coming Soon]
 
 ---
 
